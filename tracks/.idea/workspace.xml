@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6b2d7030-3b65-49fc-9d3a-d2c3a3295fb7" name="Changes" comment="" />
+=======
+    <list default="true" id="6b2d7030-3b65-49fc-9d3a-d2c3a3295fb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../track-server/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/middlewares/requireAuth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/models/Track.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/routes/authRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/routes/trackRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mockLocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/tracker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AuthForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Spacer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrackForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/LocationContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/TrackContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/createDataContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useLocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useSaveTrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigationRef.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/AccountScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/ResolveAuthScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/SigninScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/SignupScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/TrackCreateScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/TrackDetailScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/TrackListScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../food/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../food/.idea/vcs.xml" afterDir="false" />
+    </list>
+>>>>>>> main
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +121,11 @@
       <workItem from="1670345101504" duration="5748000" />
       <workItem from="1670419814328" duration="14899000" />
       <workItem from="1670498046983" duration="15544000" />
+<<<<<<< HEAD
       <workItem from="1670517768903" duration="2866000" />
+=======
+      <workItem from="1670517768903" duration="2719000" />
+>>>>>>> main
     </task>
     <servers />
   </component>

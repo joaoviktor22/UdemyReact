@@ -2,9 +2,12 @@
 jsonserver/node_modules/
 
 track-server/node_modules/
+<<<<<<< HEAD
 
 blog2/node_modules/
 
 blog/node_modules/
 
 blog3/node_modules/
+=======
+>>>>>>> main
