@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b2d7030-3b65-49fc-9d3a-d2c3a3295fb7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../track-server/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/middlewares/requireAuth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/models/Track.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/routes/authRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../track-server/src/routes/trackRoutes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_mockLocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/tracker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AuthForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Spacer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TrackForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/AuthContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/LocationContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/TrackContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/context/createDataContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useLocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useSaveTrack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigationRef.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/AccountScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/ResolveAuthScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/SigninScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/SignupScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/TrackCreateScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/TrackDetailScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/TrackListScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../food/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../food/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1670344382" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IXpO7Vnz4URroZgCLN6rZAx2IU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/joaoviktor/UdemyReact/tracks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="tracks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="tracks" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b2d7030-3b65-49fc-9d3a-d2c3a3295fb7" name="Changes" comment="" />
+      <created>1670337748036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670337748036</updated>
+      <workItem from="1670337749463" duration="4109000" />
+      <workItem from="1670344393543" duration="160000" />
+      <workItem from="1670344558065" duration="65000" />
+      <workItem from="1670344632933" duration="464000" />
+      <workItem from="1670345101504" duration="5748000" />
+      <workItem from="1670419814328" duration="14899000" />
+      <workItem from="1670498046983" duration="15544000" />
+      <workItem from="1670517768903" duration="2719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
